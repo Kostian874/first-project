@@ -36,7 +36,6 @@
 
 }
 .header__subtitle{
-    position: absolute;
     
     width: 388px;
     height: 25px;
@@ -258,7 +257,7 @@ position: relative;
 
 }
 .kaufman__triangle {
-    background-image: url("./images/kaufman-triangle.svg");
+    
     position: absolute;
     z-index:-1;
     width: 877px;
