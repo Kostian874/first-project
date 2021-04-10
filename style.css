@@ -296,7 +296,8 @@
     font-size: 18px;
     font-weight: normal;
     color: white;
-    margin: 20px 0px 16px 0px;
+    margin-top: 20px;
+    margin-bottom: 16px;;
     text-decoration: none;
 }
 .footer__column-link {
@@ -309,7 +310,8 @@
     font-size: 18px;
     font-weight: normal;
     color: white;
-    margin: 20px 0px 16px 0px;
+    margin-top: 20px;
+    margin-bottom: 16px;
     text-decoration: none;
 }
 .footer__social-icon {
