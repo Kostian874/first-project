@@ -139,6 +139,7 @@
     width: 250px;
 }
 .table__heading {
+    padding-top: 60px;
     line-height: 1.15;
     font-size: 24px;
     font-weight: bold;
@@ -269,7 +270,7 @@
     
 }
 .footer__column-heading {
-    margin: 0;
+    margin: 0px;
     line-height: 30px;
     font-size: 18px;
     font-weight: bold;
@@ -282,14 +283,14 @@
     padding-bottom: 18px;
     color: white;
     margin-top: 110px;
-    margin-bottom: 0;
+    margin-bottom: 0px;
 }
 
 .footer__column-links {
     display: flex;
     flex-direction: column;
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     list-style: none;
     line-height: 30px;
     font-size: 18px;
@@ -301,8 +302,8 @@
 .footer__column-link {
     display: flex;
     flex-direction: row;
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     list-style: none;
     line-height: 30px;
     font-size: 18px;
@@ -312,6 +313,8 @@
     text-decoration: none;
 }
 .footer__social-icon {
+    margin: 0px;
+    padding: 0px;
     width: 16px;
     height: 16px;
     margin-right: 10px;
