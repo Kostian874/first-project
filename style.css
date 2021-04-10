@@ -286,12 +286,13 @@
     margin-bottom: 0px;
 }
 
+
 .footer__column-links {
     display: flex;
     flex-direction: column;
     margin: 0px;
     padding: 0px;
-    list-style: none;
+    list-style-type: none;
     line-height: 30px;
     font-size: 18px;
     font-weight: normal;
@@ -304,7 +305,7 @@
     flex-direction: row;
     margin: 0px;
     padding: 0px;
-    list-style: none;
+    list-style-type: none;
     line-height: 30px;
     font-size: 18px;
     font-weight: normal;
@@ -320,3 +321,7 @@
     margin-right: 10px;
     text-decoration: none;
 }
+.footer-ul{
+    list-style: none;
+}
+
